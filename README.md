@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Create, read, update, and delete elements from lists.
+- Create, read, update, and delete elements from lists...
 
 ***
 
